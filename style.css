@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 14px 20px;
+    border-bottom: 1px solid #eee;
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 10;
+}
+nav a {
+    margin-left: 12px;
+    text-decoration: none;
+    color: black;
+}
+main {
+    padding: 30px 20px;
+}
+button {
+    margin-top: 10px;
+    padding: 10px 14px;
+    border: none;
+    background: black;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+section {
+    margin-bottom: 22px;
+    padding: 16px;
+    border: 1px solid #eee;
+    border-radius: 14px;
+    }
+    footer {
+        padding: 16px 20px;
+        border-top: 1px solid #eee;
+    }
+    .card {
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 10px 20px rgba(0,0,0,0,0,0.08);
+    }
+    button:hover{
+        transform: translateY(-2px);
+}
+button{ transition: transform 0.15s ease; }
+@media (max widht: 900px) {
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+}
+.nav a {
+    margin-left: 0;
+    margin-right: 12px;
+    display: inline-block;
+    margin-top: 6px;
+}
+.maim {
+    padding: 18px 14px;
+}
