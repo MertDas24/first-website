@@ -17,4 +17,6 @@ My first mini website built with HTML, CSS and JavaScript.
 
 <img width="1470" height="833" alt="First-Website" src="https://github.com/user-attachments/assets/83e6ec1e-56db-4da3-a05e-f6d3ef5eee94" />
 
+## How to run
+Open `index.html` in your browser or use Live Server in VS Code.
 
