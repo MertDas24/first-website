@@ -15,8 +15,6 @@ My first mini website built with HTML, CSS and JavaScript.
 - CSS
 - JavaScript
 
-[![Screenshot](<img width="1470" height="833" alt="First-Website" src="https://github.com/user-attachments/assets/b9215368-a5b2-4dd1-8c04-5a9932da3c67" />)
-](<img width="1470" height="833" alt="First-Website" src="https://github.com/user-attachments/assets/cd9647fe-e1e3-4575-913b-828a87b00df6" />)]
-
+<img width="1470" height="833" alt="First-Website" src="https://github.com/user-attachments/assets/83e6ec1e-56db-4da3-a05e-f6d3ef5eee94" />
 
 
